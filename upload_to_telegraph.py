@@ -31,7 +31,7 @@ async def start_handlers(c, m):
         "⍟ I can upload photos to telegra.ph and gives you the link.\n"
         "⍟ I can create a instant view link for your text.\n"
         "⍟ I can create post in telegra.ph if you send any text.\n"
-        "(You can send text in format `post content|TITLE`)\n\n',
+        "(You can send text in format `post content|TITLE`)\n\n"
 
         disable_web_page_preview=True,
         quote=True
