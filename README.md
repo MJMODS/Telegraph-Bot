@@ -1,7 +1,7 @@
 # Telegraph-Uploader 📤
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MJMODS/Telegraph-Bot)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/MJDili)
 
 - This is a telegram to Telegraph uploader
 
@@ -9,13 +9,11 @@
 
 - This bot can upload photos to telegra.ph and give you the link.🏞
 
-### Our Channels 🧾
-[<p align="left"><img src="https://telegra.ph/file/7156f0a83260d2873e8ba.jpg" width="100">](https://telegram.dog/Ns_bot_updates)
 
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MJMODS/Telegraph-Bot)
 
 - Get your API HASH & API TOKEN from [my.telegram.org](https://my.telegram.org/auth?to=apps) or [UseTGSBot](https://telegram.dog/UseTGSBot)
 
@@ -42,20 +40,3 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 
 ### Framework 🧰
 [<p align="left"><img src="https://telegra.ph/file/0590c398350a15238b9eb.png" width="200">](https://docs.pyrogram.org/)
-
-
-## Developer 👨🏻‍💻
-
-[<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg" width="300">](https://telegram.dog/Ns_AnoNymouS)
-
-**NAME:** 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 <br>
-
-**Github:** [Ns-AnoNymouS](https://github.com/Ns-AnoNymouS) <br>
-
-**Language:** Python 🐍 <br>
-
-**Available**[<p align="center">
-<img src="https://telegra.ph/file/efdbb8c16474228e2c8de.jpg" width="50">](https://telegram.dog/Ns_AnoNymouS)
-
-
