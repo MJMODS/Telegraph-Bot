@@ -1,5 +1,5 @@
 {
-  "name": "Trimmer Bo",
+  "name": "MJ MODS",
   "description": "The Telegram bot that can trim videos.",
   "logo": "https://telegra.ph/file/8dd1b1ea055925a6a4848.jpg",
   "keywords": [
@@ -9,7 +9,7 @@
     "bot",
     "uploader"
   ],
-  "repository": "https://github.com/Ns-AnoNymouS/Telegraph-Uploader",
+  "repository": "https://github.com/MJMODS/Telegraph-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
